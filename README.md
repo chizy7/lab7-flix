@@ -16,5 +16,5 @@ By the end of this lab you will be able to...
 
 #### Required Features
 
-- [ ] Users can toggle a *"Favorite"* button in the movie detail screen to save/delete a movie from their collection of favorite movies.
+- [X] Users can toggle a *"Favorite"* button in the movie detail screen to save/delete a movie from their collection of favorite movies.
 - [ ] Users can view a scrolling list of their favorite movies on a *"Favorites"* tab.
